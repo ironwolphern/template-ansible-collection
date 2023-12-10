@@ -3,10 +3,11 @@
 # **template-ansible-collection**
 
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)
-![License](https://badgen.net/github/license/ironwolphern/template-ansible-collection)
-![Release](https://badgen.net/github/release/ironwolphern/template-ansible-collection)
-![PRs](https://badgen.net/github/prs/ironwolphern/template-ansible-collection)
-![Issues](https://badgen.net/github/issues/ironwolphern/template-ansible-collection)
+![GitHub License](https://img.shields.io/github/license/ironwolphern/template-ansible-collection)
+![GitHub release (with filter)](https://img.shields.io/github/v/release/ironwolphern/template-ansible-collection)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ironwolphern/template-ansible-collection)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/ironwolphern/template-ansible-collection)
+![GitHub issues](https://img.shields.io/github/issues/ironwolphern/template-ansible-collection)
 [![Ansible Lint](https://github.com/ironwolphern/template-ansible-collection/actions/workflows/ansible-lint.yml/badge.svg)](https://github.com/ironwolphern/template-ansible-collection/actions/workflows/ansible-lint.yml)
 ![Dependabot](https://badgen.net/github/dependabot/ironwolphern/template-ansible-collection)
 
@@ -22,9 +23,9 @@ A description of the settable variables for this collection should go here, incl
 
 This is a list of required and optinal variables and parameters for this collection:
 
-| **Parameter**                  | **Description**            | **Type** |     **Default**     |**Required**|
-|--------------------------------|----------------------------|----------|:-------------------:|:----------:|
-| variable_input        | description             |  type  | default value          |     yes/no     |
+| **Parameter** | **Description** | **Type** | **Default** | **Options** | **Required** |
+|---------------|-----------------|----------|:-----------:|:-----------:|:------------:|
+| variable_input | description | type | default value |  | yes/no |
 
 ## *Dependencies*
 
